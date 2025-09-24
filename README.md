@@ -38,3 +38,7 @@ Command line options:
 * ``--verbose`` – enable debug logging output.
 
 The report summarises how many files were scanned, how many were skipped due to existing fingerprints, and which files triggered banned word matches.
+
+## License
+<a href="https://opensource.org/license/mit">MIT</a>
+
